@@ -1,4 +1,8 @@
-<img align="right" src="https://drive.google.com/file/d/10fMRwvEX5XIxjWKBNDPEWWc_YD_6amfa/view?usp=sharing" />
+<p align="center">
+  <img src="https://github.com/luccaviccini/luccaviccini/blob/main/J4o.gif" />
+</p>
+
+
 
 <h1 align="center">Hey there! 🚀 I'm Lucca</h1>
 <h3 align="center">A Full-stack Software Developer and Electronics Engineer </h3>
@@ -12,7 +16,7 @@ I'm deeply passionate about developing user-centric solutions that optimize ever
 
 <hr/>
 
-<h3 align="left">Let's Connect:</h3>
+<h3 align="left">Let's Get in Touch:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lucca-viccini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your Name" height="30" width="40" /></a>
 <a href="https://instagram.com/luccaviccini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yourusername" height="30" width="40" /></a>
@@ -23,123 +27,126 @@ I'm deeply passionate about developing user-centric solutions that optimize ever
 <h3>Current Languages and Tools</h3>
 <table>
   <tbody>
-    <tr>
-      <td>
+  <tr>
+  <td>
+      <div style="display: flex; flex-direction: row; align-items: center; height: 40px;">
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
           height="40"
           alt="javascript logo"
         />
-        <img width="12" /> Javascript
-      </td>
-      <td>
+        <span style="margin-left: 12px;">Javascript</span>
+      </div>
+    </td>
+      <td style="vertical-align: middle;">
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
           height="40"
           alt="typescript logo"
         />
-        <img width="12" /> Typescript
+        <span style="margin-left: 12px;">Typescript</span>
       </td>
-      <td>
+      <td style="vertical-align: middle;">
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
           height="40"
           alt="nodejs logo"
         />
-        <img width="12" /> Node.js
+        <span style="margin-left: 12px;">Node.js</span>
       </td>
-      <td>
-        <img
-          src="https://skillicons.dev/icons?i=express"
-          height="40"
-          alt="express logo"
-        />
-        <img width="12" /> Express
-      </td>
-      <td>
+      <td style="vertical-align: middle;">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
           alt="nestjs"
           width="40"
           height="40"
         />
-        <img width="12" /> NestJS
+        <span style="margin-left: 12px;">NestJS</span>
       </td>
-    </tr>
-    <tr>
-      <td>
+      <td style="vertical-align: middle;">
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
           height="40"
           alt="react logo"
         />
-        <img width="12" /> React
+        <span style="margin-left: 12px;">React</span>
       </td>
-      <td>
+      <td style="vertical-align: middle;">
         <img
           src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
           height="40"
           alt="tailwindcss logo"
         />
-        <img width="12" /> Tailwindcss
+        <span style="margin-left: 12px;">Tailwindcss</span>
       </td>
-      <td>
+      <td style="vertical-align: middle;">
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
           height="40"
           alt="git logo"
         />
-        <img width="12" /> Git
+        <span style="margin-left: 12px;">Git</span>
       </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-          height="40"
-          alt="docker logo"
-        />
-        <img width="12" /> Docker
-      </td>
-    </tr>
-    <tr>
-      <td>
+  </tr>
+  <tr>
+    <td style="vertical-align: middle;">
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
           height="40"
           alt="postgresql logo"
         />
-        <img width="12" /> Postgresql
+        <span style="margin-left: 12px;">Postgresql</span>
       </td>
-      <td>
+    <td style="vertical-align: middle;">
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+          src="https://skillicons.dev/icons?i=express"
           height="40"
-          alt="mongodb logo"
+          alt="express logo"
         />
-        <img width="12" /> MongoDB
+        <span style="margin-left: 12px;">Express</span>
       </td>
-      <td>
+    <td style="vertical-align: middle;">
+        <img
+          src="https://skillicons.dev/icons?i=linux"
+          height="40"
+          alt="linux logo"
+        />
+        <span style="margin-left: 12px;">Linux</span>
+      </td>
+    <td style="vertical-align: middle;">
         <img
           src="https://cdn.simpleicons.org/visualstudiocode/007ACC"
           height="40"
           alt="vscode logo"
         />
-        <img width="12" /> Visual Studio Code
+        <span style="margin-left: 12px;">VSCode</span>
       </td>
-      <td>
+    <td style="vertical-align: middle;">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
           alt="python"
           width="40"
           height="40"
         />
-        <img width="12" /> Python
+        <span style="margin-left: 12px;">Python</span>
       </td>
-    </tr>
+    <td style="vertical-align: middle;">
+        <img
+          src="https://cdn.simpleicons.org/gnubash/4EAA25"
+          height="40"
+          alt="bash logo"
+        />
+        <span style="margin-left: 12px;">Bash</span>
+      </td>
+    <td style="vertical-align: middle;">
+        <img
+          src="https://skillicons.dev/icons?i=cpp"
+          height="40"
+          alt="C++ logo"
+        />
+        <span style="margin-left: 12px;">C++</span>
+      </td>
+  </tr>
   </tbody>
 </table>
 <hr/>
-<h3 align="left">All Languages and Tools:</h3>
-
-
-
-
