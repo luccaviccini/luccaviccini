@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/J4o.gif" />
+<img align="right" src="https://drive.google.com/file/d/10fMRwvEX5XIxjWKBNDPEWWc_YD_6amfa/view?usp=sharing" />
 
 <h1 align="center">Hey there! 🚀 I'm Lucca</h1>
 <h3 align="center">A Full-stack Software Developer and Electronics Engineer </h3>
