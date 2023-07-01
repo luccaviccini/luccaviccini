@@ -29,7 +29,7 @@ I'm deeply passionate about developing user-centric solutions that optimize ever
   <tbody>
   <tr>
   <td>
-      <div style="display: flex; flex-direction: row; align-items: center; height: 40px;">
+      <div style="display: flex; flex-direction: column; align-items: center; height: 40px;">
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
           height="40"
